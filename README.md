@@ -4,7 +4,7 @@
 
 ## Hardware Requirements and Circuit Schematic 
 
-| Feature        | Description       | Example        |
+| Components        | Description       | Quantity        |
 |----------------|-------------------|----------------|
 | **Fast**       | Runs quickly      | `O(1)`        |
 | **Scalable**   | Handles large data| Millions of users|
