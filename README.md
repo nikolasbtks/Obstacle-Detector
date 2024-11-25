@@ -6,8 +6,8 @@
 
 | Components        | Description       | Quantity        |
 |----------------|-------------------|----------------|
-| Board       | STM32 NUCLEO-F446RE     | 1        |
-| Ultrasonic Sensor   | Handles large data| Millions of users|
+|     Board     |     STM32 NUCLEO-F446RE     |     1     |
+| Ultrasonic Sensor   |     HC-SRF05     |     1     |
 | Flexible   | Easy to customize | Configurable options |
 | Flexible   | Easy to customize | Configurable options |
 | Flexible   | Easy to customize | Configurable options |
