@@ -6,9 +6,13 @@
 
 | Components        | Description       | Quantity        |
 |----------------|-------------------|----------------|
-| **Board**       | Runs quickly      | `O(1)`        |
-| **Scalable**   | Handles large data| Millions of users|
-| **Flexible**   | Easy to customize | Configurable options |
+| Board       | STM32 NUCLEO-F446RE     | 1        |
+| Ultrasonic Sensor   | Handles large data| Millions of users|
+| Flexible   | Easy to customize | Configurable options |
+| Flexible   | Easy to customize | Configurable options |
+| Flexible   | Easy to customize | Configurable options |
+| Flexible   | Easy to customize | Configurable options |
+| Flexible   | Easy to customize | Configurable options |
 
 
 ## How to install and run this project ?
