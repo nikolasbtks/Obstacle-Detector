@@ -6,7 +6,7 @@
 
 | Components        | Description       | Quantity        |
 |----------------|-------------------|----------------|
-| **Fast**       | Runs quickly      | `O(1)`        |
+| **Board**       | Runs quickly      | `O(1)`        |
 | **Scalable**   | Handles large data| Millions of users|
 | **Flexible**   | Easy to customize | Configurable options |
 
