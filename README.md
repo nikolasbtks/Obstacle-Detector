@@ -6,10 +6,10 @@ This project demonstrates an obstacle detector system, that uses an SRF05 Ultras
 
 Based on FreeRTOS library, the project implements two tasks:
 1. Distance Calculation
-  - The SRF05 emits ultrasonic waves and calculates the distance to the nearest object.
+    - The SRF05 emits ultrasonic waves and calculates the distance to the nearest object.
 
 2. LED Control and Data Processing
-  - If the distance is less than 20 cm, the Red LED lights up. If there is no detection of an obstacle , the Green LED lights up.
+    - If the distance is less than 20 cm, the Red LED lights up. If there is no detection of an obstacle , the Green LED lights up.
 
 A queue is used to transfer data from one task to another.
 
